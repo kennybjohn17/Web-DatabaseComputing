@@ -1,0 +1,80 @@
+h1{
+		font-family: sans-serif;
+	}
+	p{
+  		font-family: serif;
+	}
+	h2{font-family: sans-serif;
+	}
+	h3{
+		font-family: serif;
+		color: rgba(0, 0, 255, 0.8);
+	}
+	a{
+		color:green;
+	}
+	del{
+		color:grey;
+	}
+	mark{
+		color:darkblue;
+		background: pink;
+	}
+	pre{
+		font-family: monospace;
+	}
+	.transparent-text{
+   		font-family: monospace;
+		color: rgba(0, 0, 0, 0.5);
+	}
+	body{
+	background-image: url("cross.png");
+  	background-repeat: repeat;
+	background-color: #DCF5F5;
+	}
+#content{
+	background-color: white;
+	border: 1px;
+	border-color: darkgray;
+	border-style: solid;
+	border-radius: 8px;
+}
+#blue{
+	color:blue;
+}
+#fancy{
+	font-family: cursive;
+}
+
+#red-border{
+	border: 1px;
+	border-color: red;
+	border-style: solid;
+}
+#new-red-border{
+	border: 1px;
+	border-color: red;
+	border-style: solid solid hidden solid; border-color: red;
+	border-radius: 8px;
+}
+
+#blue-border{
+	border: 1px;
+	border-color: blue;
+	border-style: solid;
+}
+
+#new-blue-border{
+	border: 1px;
+	border-color: blue;
+	border-style: solid;
+	border-radius: 8px;
+}
+#red-outline{
+	outline: 1px;
+	outline-color: red;
+	outline-style: solid;
+}
+hr{
+	border-color: #CFDFE4;
+}
