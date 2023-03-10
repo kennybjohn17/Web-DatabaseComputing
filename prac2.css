@@ -46,7 +46,12 @@ h1{
 	font-family: cursive;
 }
 
-#red-border{
+#fancy1{
+	color:blue;
+	font-family: cursive;
+}
+
+#red-border-1{
 	border: 1px;
 	border-color: red;
 	border-style: solid;
